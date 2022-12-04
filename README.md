@@ -1,5 +1,5 @@
 ## shadow-of-infinity
- A series of artistic experiments using javascript libraries.
+ A series of artistic experiments using code.
 
 ### `npm install`
 
