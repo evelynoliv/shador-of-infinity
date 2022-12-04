@@ -1,5 +1,5 @@
 ## shadow-of-infinity
- A series of artistic experiments using code.
+ A series of artistic experiments using React and some libraries.
 
 ### `npm install`
 
